@@ -1,3 +1,54 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenido a BIXI!" tvg-logo="" group-title="Publicidad",Bienvenido a BIXI!
 http://144.217.72.145:25461/movie/48490/p7xfhei9sE/16233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Quienes somos?" tvg-logo="http://51.15.11.135:25461/images/uM3jj0ZWxyE9C3YjSrXDP7amrSO_small.jpg" group-title="Publicidad",¿Quienes somos?
+http://144.217.72.145:25461/movie/48490/p7xfhei9sE/15266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Tienes problemas?" tvg-logo="http://51.15.11.135:25461/images/uM3jj0ZWxyE9C3YjSrXDP7amrSO_small.jpg" group-title="Publicidad",¿Tienes problemas?
+http://144.217.72.145:25461/movie/48490/p7xfhei9sE/11808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | Niños" tvg-logo="http://54.39.102.237/CANALES/cartoon%20network.png" group-title="Canales Niños",Cartoon Network | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22183
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20jr.png" group-title="Canales Niños",Disney Jr | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22176
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20xd.png" group-title="Canales Niños",Disney XD | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22178
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20channel.png" group-title="Canales Niños",Disney Channel | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22175
+#EXTINF:-1 tvg-id="" tvg-name="Nick | Niños" tvg-logo="http://54.39.102.237/CANALES/nick.png" group-title="Canales Niños",Nick | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22182
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 | Niños" tvg-logo="http://54.39.102.237/CANALES/nick%202.png" group-title="Canales Niños",Nick 2 | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22181
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr | Niños" tvg-logo="http://54.39.102.237/CANALES/nick%20jr.png" group-title="Canales Niños",Nick Jr | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22180
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids | Niños" tvg-logo="http://54.39.102.237/CANALES/nat%20geo%20kids.png" group-title="Canales Niños",Nat Geo Kids | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22173
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | Niños" tvg-logo="http://54.39.102.237/CANALES/discovery%20kids.png" group-title="Canales Niños",Discovery Kids | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22174
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV | Niños" tvg-logo="http://54.39.102.237/CANALES/baby%20tv.png" group-title="Canales Niños",BabyTV | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22172
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang | Niños" tvg-logo="http://54.39.102.237/CANALES/boomerang.png" group-title="Canales Niños",Boomerang | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22171
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast | Niños" tvg-logo="http://54.39.102.237/CANALES/tooncast.png" group-title="Canales Niños",Tooncast | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22170
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/las%20estrellas.png" group-title="Canales Nacionales",Las Estrellas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22223
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 | Nacionales" tvg-logo="http://54.39.102.237/CANALES/adn%2040.png" group-title="Canales Nacionales",ADN 40 | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/26892
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios | Nacionales" tvg-logo="http://54.39.102.237/CANALES/multimedios.png" group-title="Canales Nacionales",Multimedios | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/26891
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | Nacionales" tvg-logo="http://54.39.102.237/CANALES/azteca%207.png" group-title="Canales Nacionales",Azteca 7 | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22222
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo | Nacionales" tvg-logo="http://54.39.102.237/CANALES/az%20mundo.png" group-title="Canales Nacionales",AZ Mundo | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22220
+#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Zacatecas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2020%20zacatecas.png" group-title="Canales Nacionales",Canal 20 Zacatecas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22227
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%20once.png" group-title="Canales Nacionales",Canal Once | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22230
+#EXTINF:-1 tvg-id="" tvg-name="15TV Sabinas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/15tv%20sabinas.png" group-title="Canales Nacionales",15TV Sabinas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28896
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Mas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/azteca%20mas.png" group-title="Canales Nacionales",Azteca Mas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28895
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cancun | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2010%20cancun.png" group-title="Canales Nacionales",Canal 10 Cancun | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28893
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Chiapas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2010%20chiapas.png" group-title="Canales Nacionales",Canal 10 Chiapas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28892
+#EXTINF:-1 tvg-id="" tvg-name="Canal 15 Zacatecas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2015%20zacatecas.png" group-title="Canales Nacionales",Canal 15 Zacatecas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28891
