@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenido a BIXI!" tvg-logo="" group-title="Publicidad",Bienvenido a BIXI!
+http://144.217.72.145:25461/movie/48490/p7xfhei9sE/16233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Quienes somos?" tvg-logo="http://51.15.11.135:25461/images/uM3jj0ZWxyE9C3YjSrXDP7amrSO_small.jpg" group-title="Publicidad",¿Quienes somos?
+http://144.217.72.145:25461/movie/48490/p7xfhei9sE/15266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Tienes problemas?" tvg-logo="http://51.15.11.135:25461/images/uM3jj0ZWxyE9C3YjSrXDP7amrSO_small.jpg" group-title="Publicidad",¿Tienes problemas?
+http://144.217.72.145:25461/movie/48490/p7xfhei9sE/11808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | Niños" tvg-logo="http://54.39.102.237/CANALES/cartoon%20network.png" group-title="Canales Niños",Cartoon Network | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22183
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20jr.png" group-title="Canales Niños",Disney Jr | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22176
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20xd.png" group-title="Canales Niños",Disney XD | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22178
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | Niños" tvg-logo="http://54.39.102.237/CANALES/disney%20channel.png" group-title="Canales Niños",Disney Channel | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22175
+#EXTINF:-1 tvg-id="" tvg-name="Nick | Niños" tvg-logo="http://54.39.102.237/CANALES/nick.png" group-title="Canales Niños",Nick | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22182
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 | Niños" tvg-logo="http://54.39.102.237/CANALES/nick%202.png" group-title="Canales Niños",Nick 2 | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22181
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr | Niños" tvg-logo="http://54.39.102.237/CANALES/nick%20jr.png" group-title="Canales Niños",Nick Jr | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22180
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids | Niños" tvg-logo="http://54.39.102.237/CANALES/nat%20geo%20kids.png" group-title="Canales Niños",Nat Geo Kids | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22173
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | Niños" tvg-logo="http://54.39.102.237/CANALES/discovery%20kids.png" group-title="Canales Niños",Discovery Kids | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22174
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV | Niños" tvg-logo="http://54.39.102.237/CANALES/baby%20tv.png" group-title="Canales Niños",BabyTV | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22172
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang | Niños" tvg-logo="http://54.39.102.237/CANALES/boomerang.png" group-title="Canales Niños",Boomerang | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22171
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast | Niños" tvg-logo="http://54.39.102.237/CANALES/tooncast.png" group-title="Canales Niños",Tooncast | Niños
+http://144.217.72.145:25461/48490/p7xfhei9sE/22170
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/las%20estrellas.png" group-title="Canales Nacionales",Las Estrellas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22223
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 | Nacionales" tvg-logo="http://54.39.102.237/CANALES/adn%2040.png" group-title="Canales Nacionales",ADN 40 | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/26892
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios | Nacionales" tvg-logo="http://54.39.102.237/CANALES/multimedios.png" group-title="Canales Nacionales",Multimedios | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/26891
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | Nacionales" tvg-logo="http://54.39.102.237/CANALES/azteca%207.png" group-title="Canales Nacionales",Azteca 7 | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22222
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo | Nacionales" tvg-logo="http://54.39.102.237/CANALES/az%20mundo.png" group-title="Canales Nacionales",AZ Mundo | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22220
+#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Zacatecas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2020%20zacatecas.png" group-title="Canales Nacionales",Canal 20 Zacatecas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22227
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%20once.png" group-title="Canales Nacionales",Canal Once | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/22230
+#EXTINF:-1 tvg-id="" tvg-name="15TV Sabinas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/15tv%20sabinas.png" group-title="Canales Nacionales",15TV Sabinas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28896
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Mas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/azteca%20mas.png" group-title="Canales Nacionales",Azteca Mas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28895
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cancun | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2010%20cancun.png" group-title="Canales Nacionales",Canal 10 Cancun | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28893
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Chiapas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2010%20chiapas.png" group-title="Canales Nacionales",Canal 10 Chiapas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28892
+#EXTINF:-1 tvg-id="" tvg-name="Canal 15 Zacatecas | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%2015%20zacatecas.png" group-title="Canales Nacionales",Canal 15 Zacatecas | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28891
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Saltillo | Nacionales" tvg-logo="http://54.39.102.237/CANALES/canal%204%20saltillo.png" group-title="Canales Nacionales",Canal 4 Saltillo | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28894
+#EXTINF:-1 tvg-id="" tvg-name="FOROtv | Nacionales" tvg-logo="http://54.39.102.237/CANALES/foro%20tv.png" group-title="Canales Nacionales",FOROtv | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28888
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula | Nacionales" tvg-logo="http://54.39.102.237/CANALES/teleformula.png" group-title="Canales Nacionales",Teleformula | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28887
+#EXTINF:-1 tvg-id="" tvg-name="Telemar Campeche | Nacionales" tvg-logo="http://54.39.102.237/CANALES/telemar%20campeche.png" group-title="Canales Nacionales",Telemar Campeche | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28886
+#EXTINF:-1 tvg-id="" tvg-name="Tlaxcala TV | Nacionales" tvg-logo="http://54.39.102.237/CANALES/tlaxcala%20tv.png" group-title="Canales Nacionales",Tlaxcala TV | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28884
+#EXTINF:-1 tvg-id="" tvg-name="Ultra TV Aguascalientes | Nacionales" tvg-logo="http://54.39.102.237/CANALES/ultra%20tv%20aguascalientes.png" group-title="Canales Nacionales",Ultra TV Aguascalientes | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28877
+#EXTINF:-1 tvg-id="" tvg-name="Ultra TV Puebla | Nacionales" tvg-logo="http://54.39.102.237/CANALES/ultra%20tv%20puebla.png" group-title="Canales Nacionales",Ultra TV Puebla | Nacionales
+http://144.217.72.145:25461/48490/p7xfhei9sE/28878
+#EXTINF:-1 tvg-id="" tvg-name="A&E | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/a&e.png" group-title="Canales Entretenimiento",A&E | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21852
+#EXTINF:-1 tvg-id="" tvg-name="AMC | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/amc.png" group-title="Canales Entretenimiento",AMC | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21817
+#EXTINF:-1 tvg-id="" tvg-name="AXN | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/axn.png" group-title="Canales Entretenimiento",AXN | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21839
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cinemax.png" group-title="Canales Entretenimiento",Cinemax | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21818
+#EXTINF:-1 tvg-id="" tvg-name="E! | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/e!.png" group-title="Canales Entretenimiento",E! | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21844
+#EXTINF:-1 tvg-id="" tvg-name="FOX | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/fox.png" group-title="Canales Entretenimiento",FOX | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21835
+#EXTINF:-1 tvg-id="" tvg-name="FX | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/fx.png" group-title="Canales Entretenimiento",FX | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21833
+#EXTINF:-1 tvg-id="" tvg-name="FXM | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/fxm.png" group-title="Canales Entretenimiento",FXM | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21848
+#EXTINF:-1 tvg-id="" tvg-name="Sony | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/sony.png" group-title="Canales Entretenimiento",Sony | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21842
+#EXTINF:-1 tvg-id="" tvg-name="Space | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/space.png" group-title="Canales Entretenimiento",Space | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21827
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/studio%20universal.png" group-title="Canales Entretenimiento",Studio Universal | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21801
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/universal%20channel.png" group-title="Canales Entretenimiento",Universal Channel | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21798
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/warner%20channel.png" group-title="Canales Entretenimiento",Warner Channel | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21831
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/canal%20claro.png" group-title="Canales Entretenimiento",Canal Claro | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21816
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dinamita | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cine%20dinaminta.png" group-title="Canales Entretenimiento",Cine Dinamita | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21815
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cinecanal.png" group-title="Canales Entretenimiento",Cinecanal | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21829
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cinelatino.png" group-title="Canales Entretenimiento",Cinelatino | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21814
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cnn%20en%20espa%c3%b1ol.png" group-title="Canales Entretenimiento",CNN Español | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21813
+#EXTINF:-1 tvg-id="" tvg-name="FOX Extra | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/cnn%20internacional.png" group-title="Canales Entretenimiento",FOX Extra | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21812
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/comedy%20central.png" group-title="Canales Entretenimiento",Comedy Central | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21811
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/de%20pelicula.png" group-title="Canales Entretenimiento",De Pelicula | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21810
+#EXTINF:-1 tvg-id="" tvg-name="DHE | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/dhe.png" group-title="Canales Entretenimiento",DHE | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21809
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/distrito%20comedia.png" group-title="Canales Entretenimiento",Distrito Comedia | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21851
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/el%20gourmet.png" group-title="Canales Entretenimiento",El Gourmet | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21837
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/fox%20life.png" group-title="Canales Entretenimiento",FOX Life | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21808
+#EXTINF:-1 tvg-id="" tvg-name="Glitz | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/glitz.png" group-title="Canales Entretenimiento",Glitz | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21806
+#EXTINF:-1 tvg-id="" tvg-name="ISat | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/isat.png" group-title="Canales Entretenimiento",ISat | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21805
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/lifetime.png" group-title="Canales Entretenimiento",Lifetime | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21804
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/mas%20chic.png" group-title="Canales Entretenimiento",Mas Chic | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21824
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/multipremier.png" group-title="Canales Entretenimiento",Multipremier | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21803
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/paramount%20channel.png" group-title="Canales Entretenimiento",Paramount Channel | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21802
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/pasiones.png" group-title="Canales Entretenimiento",Pasiones | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21823
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/rcn%20telenovelas.png" group-title="Canales Entretenimiento",RCN Telenovelas | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21822
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/sundance%20channel.png" group-title="Canales Entretenimiento",Sundance Channel | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21800
+#EXTINF:-1 tvg-id="" tvg-name="TBS | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/tbs.png" group-title="Canales Entretenimiento",TBS | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21854
+#EXTINF:-1 tvg-id="" tvg-name="TCM | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/tcm.png" group-title="Canales Entretenimiento",TCM | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21799
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/telemundo%20internacional.png" group-title="Canales Entretenimiento",Telemundo Internacional | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21846
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/tlnovelas.png" group-title="Canales Entretenimiento",TLNovelas | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21825
+#EXTINF:-1 tvg-id="" tvg-name="TNT | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/tnt.png" group-title="Canales Entretenimiento",TNT | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/21820
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco | España" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="Canales España",Telecinco | España
+http://144.217.72.145:25461/48490/p7xfhei9sE/29909
+#EXTINF:-1 tvg-id="" tvg-name="History | Cultura" tvg-logo="http://54.39.102.237/CANALES/history.png" group-title="Canales Cultura",History | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/22184
+#EXTINF:-1 tvg-id="" tvg-name="H2 | Cultura" tvg-logo="http://54.39.102.237/CANALES/h2.png" group-title="Canales Cultura",H2 | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21796
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo | Cultura" tvg-logo="http://54.39.102.237/CANALES/nat%20geo.png" group-title="Canales Cultura",Nat Geo | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21775
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild | Cultura" tvg-logo="http://54.39.102.237/CANALES/nat%20geo%20wild.png" group-title="Canales Cultura",Nat Geo Wild | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21774
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet | Cultura" tvg-logo="http://54.39.102.237/CANALES/animal%20planet.png" group-title="Canales Cultura",Animal Planet | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21783
+#EXTINF:-1 tvg-id="" tvg-name="TLC | Cultura" tvg-logo="http://54.39.102.237/CANALES/tlc.png" group-title="Canales Cultura",TLC | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21797
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20channel.png" group-title="Canales Cultura",Discovery Channel | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21782
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20h&h.png" group-title="Canales Cultura",Discovery H&H | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21781
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20science.png" group-title="Canales Cultura",Discovery Science | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21779
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20theater.png" group-title="Canales Cultura",Discovery Theater | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21778
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20turbo.png" group-title="Canales Cultura",Discovery Turbo | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21777
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20world.png" group-title="Canales Cultura",Discovery World | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21776
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization | Cultura" tvg-logo="http://54.39.102.237/CANALES/discovery%20civilization.png" group-title="Canales Cultura",Discovery Civilization | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21792
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery | Cultura" tvg-logo="http://54.39.102.237/CANALES/investigation%20discovery.png" group-title="Canales Cultura",Investigation Discovery | Cultura
+http://144.217.72.145:25461/48490/p7xfhei9sE/21780
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime | Premium" tvg-logo="http://54.39.102.237/CANALES/max%20prime.png" group-title="Canales Premium",MAX Prime | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22212
+#EXTINF:-1 tvg-id="" tvg-name="MAX Up | Premium" tvg-logo="http://54.39.102.237/CANALES/max%20up.png" group-title="Canales Premium",MAX Up | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22211
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus | Premium" tvg-logo="http://54.39.102.237/CANALES/golden%20plus.png" group-title="Canales Premium",Golden Plus | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22209
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier | Premium" tvg-logo="http://54.39.102.237/CANALES/golden%20premier.png" group-title="Canales Premium",Golden Premier | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22208
+#EXTINF:-1 tvg-id="" tvg-name="HBO | Premium" tvg-logo="http://54.39.102.237/CANALES/hbo.png" group-title="Canales Premium",HBO | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22206
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | Premium" tvg-logo="http://54.39.102.237/CANALES/hbo%202.png" group-title="Canales Premium",HBO 2 | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22204
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family | Premium" tvg-logo="http://54.39.102.237/CANALES/hbo%20family.png" group-title="Canales Premium",HBO Family | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22200
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus | Premium" tvg-logo="http://54.39.102.237/CANALES/hbo%20plus.png" group-title="Canales Premium",HBO Plus | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22203
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature | Premium" tvg-logo="http://54.39.102.237/CANALES/hbo%20signature.png" group-title="Canales Premium",HBO Signature | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22201
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Plus | Premium" tvg-logo="http://54.39.102.237/CANALES/cinema%20plus.png" group-title="Canales Premium",Cinema Plus | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22198
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series | Entretenimiento" tvg-logo="http://54.39.102.237/CANALES/tnt%20series.png" group-title="Canales Entretenimiento",TNT Series | Entretenimiento
+http://144.217.72.145:25461/48490/p7xfhei9sE/22199
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20action.png" group-title="Canales Premium",FOX Action | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22196
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20cinema.png" group-title="Canales Premium",FOX Cinema | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22194
+#EXTINF:-1 tvg-id="" tvg-name="FOX Classics | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20classics.png" group-title="Canales Premium",FOX Classics | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22192
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20comedy.png" group-title="Canales Premium",FOX Comedy | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22190
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20family.png" group-title="Canales Premium",FOX Family | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22187
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20movies.png" group-title="Canales Premium",FOX Movies | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22188
+#EXTINF:-1 tvg-id="" tvg-name="FOX Series | Premium" tvg-logo="http://54.39.102.237/CANALES/fox%20series.png" group-title="Canales Premium",FOX Series | Premium
+http://144.217.72.145:25461/48490/p7xfhei9sE/22186
+#EXTINF:-1 tvg-id="" tvg-name="MTV | Música" tvg-logo="http://54.39.102.237/CANALES/mtv.png" group-title="Canales Música",MTV | Música
+http://144.217.72.145:25461/48490/p7xfhei9sE/22217
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits | Música" tvg-logo="http://54.39.102.237/CANALES/mtv%20hits.png" group-title="Canales Música",MTV Hits | Música
+http://144.217.72.145:25461/48490/p7xfhei9sE/22216
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live | Música" tvg-logo="http://54.39.102.237/CANALES/mtv%20live.png" group-title="Canales Música",MTV Live | Música
+http://144.217.72.145:25461/48490/p7xfhei9sE/22215
+#EXTINF:-1 tvg-id="" tvg-name="VH1 | Música" tvg-logo="http://54.39.102.237/CANALES/vh1.png" group-title="Canales Música",VH1 | Música
+http://144.217.72.145:25461/48490/p7xfhei9sE/22214
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics | Música" tvg-logo="http://54.39.102.237/CANALES/vh1%20classics.png" group-title="Canales Música",VH1 Classics | Música
+http://144.217.72.145:25461/48490/p7xfhei9sE/22213
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados | Deportes | México" tvg-logo="http://54.39.102.237/CANALES/afizzionados.png" group-title="Canales Deportes",Afizzionados | Deportes | México
+http://144.217.72.145:25461/48490/p7xfhei9sE/29908
+#EXTINF:-1 tvg-id="" tvg-name="TDN HD | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/tdn.png" group-title="Canales Deportes",TDN HD | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21764
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN | Deportes | México" tvg-logo="http://54.39.102.237/CANALES/univision%20deportes.png" group-title="Canales Deportes",Univision TDN | Deportes | México
+http://144.217.72.145:25461/48490/p7xfhei9sE/29906
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports | Deportes | España" tvg-logo="http://54.39.102.237/CANALES/beinsports%20espa%C3%B1a.png" group-title="Canales Deportes",Bein Sports | Deportes | España
+http://144.217.72.145:25461/48490/p7xfhei9sE/28872
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/bein%20sports.png" group-title="Canales Deportes",Bein Sports | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28871
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/espn.png" group-title="Canales Deportes",ESPN+ | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21768
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/espn%20plus.png" group-title="Canales Deportes",ESPN | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21771
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur | Deportes | México" tvg-logo="http://54.39.102.237/CANALES/espn%20sur.png" group-title="Canales Deportes",ESPN Sur | Deportes | México
+http://144.217.72.145:25461/48490/p7xfhei9sE/21772
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/espn%202.png" group-title="Canales Deportes",ESPN 2 | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21770
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/espn%203.png" group-title="Canales Deportes",ESPN 3 | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21769
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/fox%20sports.png" group-title="Canales Deportes",FOX Sports | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21767
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Sur 1 | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/fox%20sports.png" group-title="Canales Deportes",FOX Sports Sur 1 | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21749
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Sur 2 | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/fox%20sports%202.png" group-title="Canales Deportes",FOX Sports Sur 2 | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21748
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Sur 3 | Deportes | Mexico" tvg-logo="http://54.39.102.237/CANALES/fox%20sports%203.png" group-title="Canales Deportes",FOX Sports Sur 3 | Deportes | Mexico
+http://144.217.72.145:25461/48490/p7xfhei9sE/21747
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 | Deportes | Argentina" tvg-logo="http://54.39.102.237/CANALES/fox%20sports%202.png" group-title="Canales Deportes",FOX Sports 2 | Deportes | Argentina
+http://144.217.72.145:25461/48490/p7xfhei9sE/21766
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports | Deportes | Colombia" tvg-logo="http://54.39.102.237/CANALES/win%20sports.png" group-title="Canales Deportes",Win Sports | Deportes | Colombia
+http://144.217.72.145:25461/48490/p7xfhei9sE/21746
+#EXTINF:-1 tvg-id="" tvg-name="All Sports | Deportes | Brazil" tvg-logo="http://54.39.102.237/CANALES/all%20sports.png" group-title="Canales Deportes",All Sports | Deportes | Brazil
+http://144.217.72.145:25461/48490/p7xfhei9sE/21737
+#EXTINF:-1 tvg-id="" tvg-name="Golf Latin America | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/golf%20latin%20america.png" group-title="Canales Deportes",Golf Latin America | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21773
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/nbcsn.png" group-title="Canales Deportes",NBCSN | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21758
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/tsn%201.png" group-title="Canales Deportes",TSN 1 | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21763
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/tsn%202.png" group-title="Canales Deportes",TSN 2 | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21762
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/tsn%203.png" group-title="Canales Deportes",TSN 3 | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21761
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 | Deportes | USA" tvg-logo="http://54.39.102.237/CANALES/tsn%204.png" group-title="Canales Deportes",TSN 4 | Deportes | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/21760
+#EXTINF:-1 tvg-id="" tvg-name="IRC Sport TV | Deportes | Italia" tvg-logo="http://54.39.102.237/CANALES/irc%20sport%20tv.png" group-title="Canales Deportes",IRC Sport TV | Deportes | Italia
+http://144.217.72.145:25461/48490/p7xfhei9sE/21739
+#EXTINF:-1 tvg-id="" tvg-name="XSport | Deportes | Ucrania" tvg-logo="http://54.39.102.237/CANALES/xsport.png" group-title="Canales Deportes",XSport | Deportes | Ucrania
+http://144.217.72.145:25461/48490/p7xfhei9sE/21732
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | USA" tvg-logo="http://54.39.102.237/CANALES/cartoon%20network.png" group-title="Canales USA",Cartoon Network | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22238
+#EXTINF:-1 tvg-id="" tvg-name="Fox 4 | USA" tvg-logo="http://54.39.102.237/CANALES/Fox%204.png" group-title="Canales USA",Fox 4 | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22250
+#EXTINF:-1 tvg-id="" tvg-name="Fox 5 | USA" tvg-logo="http://54.39.102.237/CANALES/Fox%205.png" group-title="Canales USA",Fox 5 | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22249
+#EXTINF:-1 tvg-id="" tvg-name="Fox News | USA" tvg-logo="http://54.39.102.237/CANALES/Fox%20News.png" group-title="Canales USA",Fox News | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22251
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Movies | USA" tvg-logo="http://54.39.102.237/CANALES/fox%20movies.png" group-title="Canales USA",Fox Premium Movies | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22248
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | USA" tvg-logo="http://54.39.102.237/CANALES/hbo%202.png" group-title="Canales USA",HBO 2 | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22246
+#EXTINF:-1 tvg-id="" tvg-name="Sony | USA" tvg-logo="http://54.39.102.237/CANALES/sony.png" group-title="Canales USA",Sony | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22243
+#EXTINF:-1 tvg-id="" tvg-name="TruTV | USA" tvg-logo="http://54.39.102.237/CANALES/TruTV.png" group-title="Canales USA",TruTV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/22252
+#EXTINF:-1 tvg-id="" tvg-name="24-7 Retro TV | USA" tvg-logo="http://54.39.102.237/CANALES/24-7%20Retro%20TV.png" group-title="Canales USA",24-7 Retro TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29033
+#EXTINF:-1 tvg-id="" tvg-name="30A TV | USA" tvg-logo="http://54.39.102.237/CANALES/30A%20TV.png" group-title="Canales USA",30A TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29032
+#EXTINF:-1 tvg-id="" tvg-name="360 North | USA" tvg-logo="http://54.39.102.237/CANALES/360%20North.png" group-title="Canales USA",360 North | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29031
+#EXTINF:-1 tvg-id="" tvg-name="ABC | USA" tvg-logo="http://54.39.102.237/CANALES/ABC.png" group-title="Canales USA",ABC | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29030
+#EXTINF:-1 tvg-id="" tvg-name="ABC News | USA" tvg-logo="http://54.39.102.237/CANALES/ABC%20News.png" group-title="Canales USA",ABC News | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29029
+#EXTINF:-1 tvg-id="" tvg-name="ACTV | USA" tvg-logo="http://54.39.102.237/CANALES/ACTV.png" group-title="Canales USA",ACTV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29028
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV | USA" tvg-logo="http://54.39.102.237/CANALES/AKC%20TV.png" group-title="Canales USA",AKC TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29027
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet | USA" tvg-logo="http://54.39.102.237/CANALES/animal%20planet.png" group-title="Canales USA",Animal Planet | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29026
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Channel | USA" tvg-logo="http://54.39.102.237/CANALES/Atlanta%20Channel.png" group-title="Canales USA",Atlanta Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29025
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV | USA" tvg-logo="http://54.39.102.237/CANALES/AXS%20TV.png" group-title="Canales USA",AXS TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29024
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - 30A | USA" tvg-logo="http://54.39.102.237/CANALES/30A%20TV.png" group-title="Canales USA",Beach TV - 30A | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29023
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Panama City | USA" tvg-logo="http://54.39.102.237/CANALES/Beach%20TV%20-%20Panama%20City.png" group-title="Canales USA",Beach TV - Panama City | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29022
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Pawleys Island | USA" tvg-logo="http://54.39.102.237/CANALES/Beach%20TV%20-%20Pawleys%20Island.png" group-title="Canales USA",Beach TV - Pawleys Island | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29021
+#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network BTN | USA" tvg-logo="http://54.39.102.237/CANALES/Big%20Ten%20Network%20BTN.png" group-title="Canales USA",Big Ten Network BTN | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29020
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo TV | USA" tvg-logo="http://54.39.102.237/CANALES/Buffalo%20TV.png" group-title="Canales USA",Buffalo TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29019
+#EXTINF:-1 tvg-id="" tvg-name="BYUtv | USA" tvg-logo="http://54.39.102.237/CANALES/BYUtv.png" group-title="Canales USA",BYUtv | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29018
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel | USA" tvg-logo="http://54.39.102.237/CANALES/California%20Music%20Channel.png" group-title="Canales USA",California Music Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29017
+#EXTINF:-1 tvg-id="" tvg-name="CBS | USA" tvg-logo="http://54.39.102.237/CANALES/CBS.png" group-title="Canales USA",CBS | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29016
+#EXTINF:-1 tvg-id="" tvg-name="CBS News | USA" tvg-logo="http://54.39.102.237/CANALES/CBS%20News.png" group-title="Canales USA",CBS News | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29015
+#EXTINF:-1 tvg-id="" tvg-name="CC-TV Charlotte County | USA" tvg-logo="http://54.39.102.237/CANALES/CC-TV%20Charlotte%20County.png" group-title="Canales USA",CC-TV Charlotte County | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29014
+#EXTINF:-1 tvg-id="" tvg-name="Central Valley Talk | USA" tvg-logo="http://54.39.102.237/CANALES/Central%20Valley%20Talk.png" group-title="Canales USA",Central Valley Talk | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29013
+#EXTINF:-1 tvg-id="" tvg-name="CGTN America | USA" tvg-logo="http://54.39.102.237/CANALES/CGTN%20America.png" group-title="Canales USA",CGTN America | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29011
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase | USA" tvg-logo="http://54.39.102.237/CANALES/Classic%20Arts%20Showcase.png" group-title="Canales USA",Classic Arts Showcase | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29010
+#EXTINF:-1 tvg-id="" tvg-name="Classic TV 4U | USA" tvg-logo="http://54.39.102.237/CANALES/Classic%20TV%204U.png" group-title="Canales USA",Classic TV 4U | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29009
+#EXTINF:-1 tvg-id="" tvg-name="CNN | USA" tvg-logo="http://54.39.102.237/CANALES/cnn%20internacional.png" group-title="Canales USA",CNN | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29008
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel | USA" tvg-logo="http://54.39.102.237/CANALES/Cooking%20Channel.png" group-title="Canales USA",Cooking Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29007
+#EXTINF:-1 tvg-id="" tvg-name="DC Council Channel | USA" tvg-logo="http://54.39.102.237/CANALES/DC%20Council%20Channel.png" group-title="Canales USA",DC Council Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29005
+#EXTINF:-1 tvg-id="" tvg-name="Denver 8 TV | USA" tvg-logo="http://54.39.102.237/CANALES/Denver%208%20TV.png" group-title="Canales USA",Denver 8 TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29004
+#EXTINF:-1 tvg-id="" tvg-name="Denver Open Media 56 | USA" tvg-logo="http://54.39.102.237/CANALES/Denver%20Open%20Media%2056.png" group-title="Canales USA",Denver Open Media 56 | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29003
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | USA" tvg-logo="http://54.39.102.237/CANALES/discovery%20channel.png" group-title="Canales USA",Discovery Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29002
+#EXTINF:-1 tvg-id="" tvg-name="Ditty TV | USA" tvg-logo="http://54.39.102.237/CANALES/Ditty%20TV.png" group-title="Canales USA",Ditty TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29001
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | USA" tvg-logo="http://54.39.102.237/CANALES/espn.png" group-title="Canales USA",ESPN | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/29000
+#EXTINF:-1 tvg-id="" tvg-name="Evine | USA" tvg-logo="http://54.39.102.237/CANALES/Evine.png" group-title="Canales USA",Evine | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28998
+#EXTINF:-1 tvg-id="" tvg-name="FACTv Community | USA" tvg-logo="http://54.39.102.237/CANALES/FACTv%20Community.png" group-title="Canales USA",FACTv Community | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28997
+#EXTINF:-1 tvg-id="" tvg-name="FACTv Government | USA" tvg-logo="http://54.39.102.237/CANALES/FACTv%20Government.png" group-title="Canales USA",FACTv Government | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28996
+#EXTINF:-1 tvg-id="" tvg-name="Fairfax Public Access | USA" tvg-logo="http://54.39.102.237/CANALES/Fairfax%20Public%20Access.png" group-title="Canales USA",Fairfax Public Access | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28995
+#EXTINF:-1 tvg-id="" tvg-name="Flashback TV | USA" tvg-logo="http://54.39.102.237/CANALES/Flashback%20TV.png" group-title="Canales USA",Flashback TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28994
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Cinema | USA" tvg-logo="http://54.39.102.237/CANALES/fox%20cinema.png" group-title="Canales USA",Fox Premium Cinema | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28992
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Comedy | USA" tvg-logo="http://54.39.102.237/CANALES/fox%20comedy.png" group-title="Canales USA",Fox Premium Comedy | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28991
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Racing | USA" tvg-logo="http://54.39.102.237/CANALES/Fox%20Sports%20Racing.png" group-title="Canales USA",Fox Sports Racing | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28990
+#EXTINF:-1 tvg-id="" tvg-name="Garland TV | USA" tvg-logo="http://54.39.102.237/CANALES/Garland%20TV.png" group-title="Canales USA",Garland TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28989
+#EXTINF:-1 tvg-id="" tvg-name="Gloversville - New York Institute of Technology | USA" tvg-logo="http://54.39.102.237/CANALES/Gloversville%20-%20New%20York%20Institute%20of%20Technology.png" group-title="Canales USA",Gloversville - New York Institute of Technology | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28988
+#EXTINF:-1 tvg-id="" tvg-name="Key TV | USA" tvg-logo="http://54.39.102.237/CANALES/Key%20TV.png" group-title="Canales USA",Key TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28987
+#EXTINF:-1 tvg-id="" tvg-name="MLB Live | USA" tvg-logo="http://54.39.102.237/CANALES/MLB%20Live.png" group-title="Canales USA",MLB Live | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28984
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network | USA" tvg-logo="http://54.39.102.237/CANALES/MLB%20Network.png" group-title="Canales USA",MLB Network | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28985
+#EXTINF:-1 tvg-id="" tvg-name="Mobcrush | Games | USA" tvg-logo="http://54.39.102.237/CANALES/Mobcrush.png" group-title="Canales USA",Mobcrush | Games | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28983
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Play | USA" tvg-logo="http://54.39.102.237/CANALES/Music%20Choice%20Play.png" group-title="Canales USA",Music Choice Play | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28982
+#EXTINF:-1 tvg-id="" tvg-name="NBC | USA" tvg-logo="http://54.39.102.237/CANALES/NBC.png" group-title="Canales USA",NBC | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28981
+#EXTINF:-1 tvg-id="" tvg-name="Orange TV | USA" tvg-logo="http://54.39.102.237/CANALES/Orange%20TV.png" group-title="Canales USA",Orange TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28980
+#EXTINF:-1 tvg-id="" tvg-name="Pop | USA" tvg-logo="http://54.39.102.237/CANALES/Pop.png" group-title="Canales USA",Pop | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28979
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV | USA" tvg-logo="http://54.39.102.237/CANALES/Red%20Bull%20TV.png" group-title="Canales USA",Red Bull TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28978
+#EXTINF:-1 tvg-id="" tvg-name="SafeTV4U2 | USA" tvg-logo="http://54.39.102.237/CANALES/SafeTV4U2.png" group-title="Canales USA",SafeTV4U2 | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28977
+#EXTINF:-1 tvg-id="" tvg-name="Science Channel | USA" tvg-logo="http://54.39.102.237/CANALES/Science%20Channel.png" group-title="Canales USA",Science Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28975
+#EXTINF:-1 tvg-id="" tvg-name="Screamfest | USA" tvg-logo="http://54.39.102.237/CANALES/Screamfest.png" group-title="Canales USA",Screamfest | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28976
+#EXTINF:-1 tvg-id="" tvg-name="Shop LC | USA" tvg-logo="http://54.39.102.237/CANALES/Shop%20LC.png" group-title="Canales USA",Shop LC | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28974
+#EXTINF:-1 tvg-id="" tvg-name="Sidewalks | USA" tvg-logo="http://54.39.102.237/CANALES/Sidewalks.png" group-title="Canales USA",Sidewalks | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28973
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Channel | USA" tvg-logo="http://54.39.102.237/CANALES/Sony%20Movie%20Channel.png" group-title="Canales USA",Sony Movie Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28971
+#EXTINF:-1 tvg-id="" tvg-name="Southeastern Channel | USA" tvg-logo="http://54.39.102.237/CANALES/Southeastern%20Channel.png" group-title="Canales USA",Southeastern Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28970
+#EXTINF:-1 tvg-id="" tvg-name="Stadium | USA" tvg-logo="http://54.39.102.237/CANALES/Stadium.png" group-title="Canales USA",Stadium | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28969
+#EXTINF:-1 tvg-id="" tvg-name="The Country Network | USA" tvg-logo="http://54.39.102.237/CANALES/The%20Country%20Network.png" group-title="Canales USA",The Country Network | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28968
+#EXTINF:-1 tvg-id="" tvg-name="The Weather Channel | USA" tvg-logo="http://54.39.102.237/CANALES/The%20Weather%20Channel.png" group-title="Canales USA",The Weather Channel | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28967
+#EXTINF:-1 tvg-id="" tvg-name="TLC | USA" tvg-logo="http://54.39.102.237/CANALES/tlc.png" group-title="Canales USA",TLC | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28966
+#EXTINF:-1 tvg-id="" tvg-name="TSTV | USA" tvg-logo="http://54.39.102.237/CANALES/TSTV.png" group-title="Canales USA",TSTV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28965
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation | USA" tvg-logo="http://54.39.102.237/CANALES/Weather%20Nation.png" group-title="Canales USA",Weather Nation | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28964
+#EXTINF:-1 tvg-id="" tvg-name="WHAM Network | Games | USA" tvg-logo="http://54.39.102.237/CANALES/WHAM%20Network.png" group-title="Canales USA",WHAM Network | Games | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28963
+#EXTINF:-1 tvg-id="" tvg-name="Xcorps TV | USA" tvg-logo="http://54.39.102.237/CANALES/Xcorps%20TV.png" group-title="Canales USA",Xcorps TV | USA
+http://144.217.72.145:25461/48490/p7xfhei9sE/28962
